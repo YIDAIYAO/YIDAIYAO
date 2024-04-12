@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational neuroscience
 - 🌱 I’m currently learning electrical engineering at Yale
 - 💞️ I’m looking to collaborate on all neuroscience related topic
-- 📫 How to reach me daiyao.yi@yale.edu
+- 📫 Reach me at daiyao.yi@yale.edu
 
 <!---
 YIDAIYAO/YIDAIYAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
